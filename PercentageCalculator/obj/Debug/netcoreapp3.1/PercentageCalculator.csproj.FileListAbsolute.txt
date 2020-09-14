@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\PercentageCalculator\PercentageCalculator\bin\Debug\netcoreapp3.1\PercentageCalculator.exe
+C:\Users\julia.voronetskaja\source\repos\PercentageCalculator\PercentageCalculator\bin\Debug\netcoreapp3.1\PercentageCalculator.deps.json
+C:\Users\julia.voronetskaja\source\repos\PercentageCalculator\PercentageCalculator\bin\Debug\netcoreapp3.1\PercentageCalculator.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\PercentageCalculator\PercentageCalculator\bin\Debug\netcoreapp3.1\PercentageCalculator.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\PercentageCalculator\PercentageCalculator\bin\Debug\netcoreapp3.1\PercentageCalculator.dll
+C:\Users\julia.voronetskaja\source\repos\PercentageCalculator\PercentageCalculator\bin\Debug\netcoreapp3.1\PercentageCalculator.pdb
+C:\Users\julia.voronetskaja\source\repos\PercentageCalculator\PercentageCalculator\obj\Debug\netcoreapp3.1\PercentageCalculator.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\PercentageCalculator\PercentageCalculator\obj\Debug\netcoreapp3.1\PercentageCalculator.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\PercentageCalculator\PercentageCalculator\obj\Debug\netcoreapp3.1\PercentageCalculator.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\PercentageCalculator\PercentageCalculator\obj\Debug\netcoreapp3.1\PercentageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\PercentageCalculator\PercentageCalculator\obj\Debug\netcoreapp3.1\PercentageCalculator.dll
+C:\Users\julia.voronetskaja\source\repos\PercentageCalculator\PercentageCalculator\obj\Debug\netcoreapp3.1\PercentageCalculator.pdb
+C:\Users\julia.voronetskaja\source\repos\PercentageCalculator\PercentageCalculator\obj\Debug\netcoreapp3.1\PercentageCalculator.genruntimeconfig.cache
